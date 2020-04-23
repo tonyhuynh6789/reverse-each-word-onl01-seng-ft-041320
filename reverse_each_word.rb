@@ -6,9 +6,3 @@ def reverse_each_word(string)
   reversed_array
 end 
 
-
-def reverse_each_word(string)
-  string.map do |s|
-    s.reverse 
-  end 
-end 
